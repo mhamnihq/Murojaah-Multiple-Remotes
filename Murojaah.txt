@@ -1,0 +1,15 @@
+Bismillah. jadi disini saya ingin mengulang materi Multiple remotes
+jadi flow Multiple Remotes itu
+1.  ada repositori dari akun github orang lain yang kita suka terus kita FORK
+2.  setelah di fork maka repo nya masuk ke github kita
+3.  setelah itu kita clone ke komputer lokal kita
+4.  kita jadikan github kita sebagai remote kita, jika belum terpasang remotenya baik itu github kita atau github sumber repo tadi
+
+jika repo sumbernya melakukan perubahan baru / update, maka cara meng-up to date kan github kita dan komputer lokal kita adalah
+1.  kita cek commit terbaru dari github sumber repo tadi dengan cara "git fetch <nama remote github sumber repo>"
+2.  cek di graph, jika memang ada commit baru
+3.  merge git lokal kita ke remote sumber repo tadi dengan cara "git merge <nama remote>
+4.  setelah lokal sama dengan github sember tadi maka kita push lokal ke github kita dengan cara "git push <nama remote> main"
+
+CATATAN
+gunakan MERGE bukan PULL untuk menyamakan lokal dengan github sumber tadi
