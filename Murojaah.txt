@@ -12,4 +12,4 @@ jika repo sumbernya melakukan perubahan baru / update, maka cara meng-up to date
 4.  setelah lokal sama dengan github sember tadi maka kita push lokal ke github kita dengan cara "git push <nama remote> main"
 
 CATATAN
-gunakan MERGE bukan PULL untuk menyamakan lokal dengan github sumber tadi
+gunakan MERGE bukan PULL untuk menyamakan lokal dengan github sumber tadi...!
