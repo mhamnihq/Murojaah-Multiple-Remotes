@@ -14,4 +14,8 @@ jika repo sumbernya melakukan perubahan baru / update, maka cara meng-up to date
 CATATAN
 gunakan MERGE bukan PULL untuk menyamakan lokal dengan github sumber tadi...!
 
+
 ini editan tambahan supaya ada commit baru di repo masternya.
+
+ini kito tambahke editan dari repo hamimadfs untuk ngetes belajar git rebase
+
