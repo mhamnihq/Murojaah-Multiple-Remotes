@@ -15,7 +15,10 @@ CATATAN
 gunakan MERGE bukan PULL untuk menyamakan lokal dengan github sumber tadi...!
 
 
+
 ini editan tambahan supaya ada commit baru di repo masternya.
 
 ini kito tambahke editan dari repo hamimadfs untuk ngetes belajar git rebase
+
+ini editan ke 2 untuk nambah commit bae
 
